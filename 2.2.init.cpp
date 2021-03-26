@@ -1,4 +1,7 @@
 //#include<stdlib.h>
+
+//(*a).b=a->b;
+
 //const int MaxSize = 10;
 //typedef struct L{
 //	int data[MaxSize];
