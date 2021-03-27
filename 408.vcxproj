@@ -155,6 +155,8 @@
     <ClCompile Include="2.2.8.cpp" />
     <ClCompile Include="2.2.9.cpp" />
     <ClCompile Include="2.3.init.cpp" />
+    <ClCompile Include="3.1.init.cpp" />
+    <ClCompile Include="3.2.init.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
